@@ -134,7 +134,7 @@ $recommandations = [];
             <div></div>
             <div>
                 <form action="/" method="post">
-                    <select name="favorite-cuisine" aria-label="Select your favorite cuisine..." required>
+                    <select name="film" required>
                         <option selected disabled value="">
                             Quel film avez-vous regardé ?
                         </option>
