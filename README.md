@@ -8,9 +8,13 @@ Exercice d'implémentation d'un algorithme à la Netflix en PHP.
 **Variables**
 
 filmUtilisateur = "The Matrix"
+
 noteUtilisateur = 5
+
 utilisateurSimilaires = []
+
 notesUtilisateurSimilaires = []
+
 recommendations = []
 
 
